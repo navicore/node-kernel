@@ -34,7 +34,7 @@ c.Session.key = ''
 c.Session.debug = True
 c.Session.keyfile = ''
 ```
-1. run 
+1. run (_I always run it from ~ so that it finds my saved notebooks_)
 ```
 ipython notebook --profile=node
 ```
