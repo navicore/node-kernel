@@ -9,7 +9,7 @@ _created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/42
 
 Assumes you have already installed [ipython](http://ipython.org), [node.js](http://nodejs.org), and [zeromq](http://zeromq.org/). OSX hint: "`brew install zeromq && pip install ipython`"
 
-1. clone from github (_I clone it in ~/_)
+1. clone from github _(I clone it in ~/)_
     ```    
     git clone git@github.com:navicore/node-kernel.git
     ```    
