@@ -19,7 +19,7 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     cd node-kernel
     npm install
     ```
-1. run (_I always run it from ~ but don't know if it matters_)
+1. run _(I always run it from ~ but don't know if it matters)_
     ```
     ipython profile create node
     ```
@@ -37,7 +37,7 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     c.Session.keyfile = ''
     ```
 
-1. run
+1. run _(I run from ~ so that it finds my saved notebooks)_
     ```
     ipython notebook --profile=node
     ```
@@ -49,18 +49,23 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
 ![node-kernel demo](images/node-kernel-screen.png)
 
 1. click the "New Notebook" button
+
 1. define a function with a callback
     ```
     var runme = function(arg1, cb) {cb("hiya " + arg1)};
     ```
+
 1. mouse click the run button
+
 1. define a result var and call the function with a callback
     ```
     var result = 'none'; runme(' world', function(msg) {result = msg});
     ```
+
 1. print the variable
     ```
     result
     ```
+
 1. mouse click the run button
 
