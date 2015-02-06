@@ -1,0 +1,10 @@
+{
+    "name": "node-kernel",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "log4js": "0.6",
+        "zmq": "2.10.0"
+    }
+}
+
