@@ -36,10 +36,12 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     c.Session.debug = True
     c.Session.keyfile = ''
     ```
+
 1. run
     ```
     ipython notebook --profile=node
     ```
+
 1. [click](http://localhost:8888)
 
 ##USAGE
