@@ -3,6 +3,8 @@ node-kernel
 
 A [node.js](http://nodejs.org/) kernel for [ipython](http://ipython.org/).
 
+_created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/4279371_
+
 ##INSTALL
 
 Assumes you have already installed ipython and node.js.
