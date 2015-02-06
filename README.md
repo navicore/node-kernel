@@ -36,7 +36,7 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     c.Session.debug = True
     c.Session.keyfile = ''
     ```
-1. run 
+1. run
     ```
     ipython notebook --profile=node
     ```
