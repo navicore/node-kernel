@@ -5,6 +5,8 @@ A [node.js](http://nodejs.org/) kernel for [ipython](http://ipython.org/).
 
 _created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/4279371_
 
+_**PLEASE CHECK OUT A MORE SERIOUS IMPLEMENTATION at https://github.com/n-riesco/ijavascript**_
+
 ##INSTALL
 
 Assumes you have already installed [ipython](http://ipython.org), [node.js](http://nodejs.org), and [zeromq](http://zeromq.org/). OSX hint: "`brew install zeromq && pip install ipython`"
