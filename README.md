@@ -1,5 +1,5 @@
 node-kernel
-===========
+======
 
 A [node.js](http://nodejs.org/) kernel for [ipython](http://ipython.org/).
 
@@ -9,7 +9,7 @@ _created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/42
 
 _**PLEASE CHECK OUT A MORE COMPLETE AND BETTER MAINTAINED IMPLEMENTATION at https://github.com/n-riesco/ijavascript**_
 
-##INSTALL
+###INSTALL
 
 Assumes you have already installed [ipython](http://ipython.org), [node.js](http://nodejs.org), and [zeromq](http://zeromq.org/). OSX hint: "`brew install zeromq && pip install ipython`"
 
@@ -48,7 +48,7 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
 
 1. [click](http://localhost:8888)
 
-##USAGE
+###USAGE
 
 1. click the "New Notebook" button
 
