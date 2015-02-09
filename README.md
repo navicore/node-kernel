@@ -3,11 +3,11 @@ node-kernel
 
 A [node.js](http://nodejs.org/) kernel for [ipython](http://ipython.org/).
 
+![node-kernel demo](images/node-kernel-screen.png)
+
 _created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/4279371_
 
 _**PLEASE CHECK OUT A MORE COMPLETE AND BETTER MAINTAINED IMPLEMENTATION at https://github.com/n-riesco/ijavascript**_
-
-![node-kernel demo](images/node-kernel-screen.png)
 
 ##INSTALL
 
