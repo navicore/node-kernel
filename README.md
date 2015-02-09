@@ -33,7 +33,7 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     c = get_config()
     c.ZMQInteractiveShell.debug = True
     c.ZMQInteractiveShell.pdb = True
-    #<CHANGE PATH TO kernel.js BELOW> currently pointing to ~/node-kernel.  Chang    e this to where ever you cloned the node-kernel.git repo in step 1.
+    #<CHANGE PATH TO kernel.js BELOW> currently pointing to ~/node-kernel.  Change this to where ever you cloned the node-kernel.git repo in step 1.
     c.KernelManager.kernel_cmd = ["/usr/local/bin/node", "--debug",
                                   "node-kernel/kernel.js", "{connection_file}"]
     c.Session.key = ''
