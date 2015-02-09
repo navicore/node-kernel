@@ -64,6 +64,8 @@ Assumes you have already installed [ipython](http://ipython.org), [node.js](http
     var result = 'none'; runme(' world', function(msg) {result = msg});
     ```
 
+1. mouse click the run button
+
 1. print the variable
     ```
     result
