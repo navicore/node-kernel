@@ -5,7 +5,7 @@ A [node.js](http://nodejs.org/) kernel for [ipython](http://ipython.org/).
 
 _created from from Matthias Bussonnier's gist https://gist.github.com/Carreau/4279371_
 
-_**PLEASE CHECK OUT A MORE SERIOUS IMPLEMENTATION at https://github.com/n-riesco/ijavascript**_
+_**PLEASE CHECK OUT A MORE COMPLETE AND BETTER MAINTAINED IMPLEMENTATION at https://github.com/n-riesco/ijavascript**_
 
 ##INSTALL
 
